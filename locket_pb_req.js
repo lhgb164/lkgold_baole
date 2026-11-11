@@ -1,8 +1,6 @@
-https://raw.githubusercontent.com/dtuandzxyz/Locket-Filter-Module/main/js/locket_pb_req.js
+//https://raw.githubusercontent.com/dtuandzxyz/Locket-Filter-Module/main/js/locket_pb_req.js
 
 // ========= Locket Photobooth 4-Shot Engine & AI Filter Modifier ========= //
-// Phân Phối: Hakaiz
-// Tác giả: dinhtuan07
 // Tính năng:
 // 1. Luồng 4 ảnh Photobooth liên hoàn:
 //    - Chụp ảnh 1 -> Hiển thị "ĐÃ NHẬN ẢNH! Hãy ấn dấu X để chụp ảnh tiếp theo" (pb_step1.jpg)
