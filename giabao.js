@@ -117,8 +117,8 @@ Object.assign(obj.entries, {
         feature_set: [
             {
                 title: "LÊ HUỲNH GIA BẢO ✨",
-                body: "GIA BẢO LOVE ANH THƯ 💛",
-                imageURL: "https://ibb.co/NdvMFFT6"
+                body: "I LOVE U 💛",
+                imageURL: "https://i.ibb.co/HTJ3sW1m/IMG-3103.jpg"
             }
         ],
         primary_button_title: "Xong",
