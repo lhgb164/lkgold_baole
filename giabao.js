@@ -116,9 +116,9 @@ Object.assign(obj.entries, {
         title: "Lên LocketGold rồi đó 🤫 😎",
         feature_set: [
             {
-                title: "LÊ HUỲNH GIA BẢO ✨",
-                body: "I LOVE U 💛",
-                imageURL: "https://i.ibb.co/HTJ3sW1m/IMG-3103.jpg"
+                title: "BẢO LÊ ✨",
+                body: "Hihi 💛",
+                imageURL: "https://i.ibb.co/0j7jycvM/image.png"
             }
         ],
         primary_button_title: "Xong",
